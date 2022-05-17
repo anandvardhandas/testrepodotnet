@@ -1,0 +1,15 @@
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.csproj.AssemblyReference.cache
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.AssemblyInfoInputs.cache
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.AssemblyInfo.cs
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.csproj.CoreCompileInputs.cache
+/workspaces/testrepodotnet/bin/Debug/net6.0/testrepodotnet
+/workspaces/testrepodotnet/bin/Debug/net6.0/testrepodotnet.deps.json
+/workspaces/testrepodotnet/bin/Debug/net6.0/testrepodotnet.runtimeconfig.json
+/workspaces/testrepodotnet/bin/Debug/net6.0/testrepodotnet.dll
+/workspaces/testrepodotnet/bin/Debug/net6.0/testrepodotnet.pdb
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.dll
+/workspaces/testrepodotnet/obj/Debug/net6.0/refint/testrepodotnet.dll
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.pdb
+/workspaces/testrepodotnet/obj/Debug/net6.0/testrepodotnet.genruntimeconfig.cache
+/workspaces/testrepodotnet/obj/Debug/net6.0/ref/testrepodotnet.dll
